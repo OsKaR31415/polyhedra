@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "e36046bd22738da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7bdad664108efa0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0 - index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb07719b20488073",
+    "type": "split",
+    "children": [
+      {
+        "id": "9487601bbe283885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a9744418d784e17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "228691200697ad3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "090d37f5ef60aeff",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88035ef5e5ffb891",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a4ebfbbb10e79d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c299421ace227991",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0 - index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "467bb82e5b25a3d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0 - index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3905f4a2edf98cb8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f240bf29da9de5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0 - index.md"
+              }
+            }
+          },
+          {
+            "id": "ab06fa053553d9fa",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f8e4b16ff0aed14",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d7bdad664108efa0",
+  "lastOpenFiles": [
+    "Cubohemioctahedron.md",
+    "12-Versi-Regular Polyhedra.md",
+    "Tetrahemihexahedron.md",
+    "Cube.md",
+    "11-Kepler Poinsot Solids.md",
+    "0 - index.md",
+    "templates/template polyhedra.md",
+    "Dodecahedron.md",
+    "Small Stellated Dodecahedron.md",
+    "Great Icosahedron.md"
+  ]
+}
