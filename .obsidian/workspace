@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0 - index.md",
+            "file": "Great Icosahedron.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - index.md",
+                "file": "Great Icosahedron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 - index.md",
+                "file": "Great Icosahedron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - index.md"
+                "file": "Great Icosahedron.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "d7bdad664108efa0",
   "lastOpenFiles": [
+    "Dodecahedron.md",
+    "10-platonic solids.md",
+    "0 - index.md",
+    "Cube.md",
+    "Icosahedron.md",
+    "Great Icosahedron.md",
     "Cubohemioctahedron.md",
     "12-Versi-Regular Polyhedra.md",
     "Tetrahemihexahedron.md",
-    "Cube.md",
-    "11-Kepler Poinsot Solids.md",
-    "0 - index.md",
-    "templates/template polyhedra.md",
-    "Dodecahedron.md",
-    "Small Stellated Dodecahedron.md",
-    "Great Icosahedron.md"
+    "11-Kepler Poinsot Solids.md"
   ]
 }

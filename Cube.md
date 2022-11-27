@@ -6,7 +6,7 @@ next::[[Icosahedron]]
 vertices::8
 vertices-scheme::"8[3]"
 faces::6
-faces::"squares"
+faces-type::"squares"
 edges::12
 symmetry::[[full octahedral symmetry|oh]]
 dihedral-angle::$\arccos(0)$
